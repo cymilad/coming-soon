@@ -12,7 +12,7 @@
 
 ### Demo Screeshots 🖼️
 
-![Dashboard Desktop Demo](./images/cooming-soon.png)
+![Desktop Demo](./image/coming-soon.png)
 
 ### Prerequisites
 
