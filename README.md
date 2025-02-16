@@ -10,11 +10,10 @@
 
 <br />
 
-<div>
-  ### Demo Screeshots 🖼️
+
+### Demo Screeshots 🖼️
 
 ![Desktop Demo](./image/coming-soon.png)
-</div>
 
 
 ### Prerequisites
